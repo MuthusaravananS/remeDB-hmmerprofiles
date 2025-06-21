@@ -1,18 +1,15 @@
+This repository, updated on June 21, 2025, houses HMM profiles of enzymes with bioremediation capabilities, sourced from RemeDB (https://www.niot.res.in/Remedb/).
 
-1. This repository contains hmm profiles of enzymes with bioremediation potential collected from remeDB on 21 June 2025.
-2. RemeDb is available at: https://www.niot.res.in/Remedb/
-3. RemeDB aims at identifying Pollutant Degrading Enzymes (PDE) from metagenomic sequences.
+RemeDB is a tool designed to identify Pollutant Degrading Enzymes (PDEs) within metagenomic sequences. It facilitates the classification and prediction of novel enzyme classes, delivering user-interpretable outputs rapidly through the utilization of multiple computer threads.
 
-Enables classification and prediction novel enzymes classes.
+The enzymes relevant to bioremediation within this repository are categorized into three main groups:
 
-User interprtable outputs generated at lightning fast speed ( number of computer threads )
+    Hydrocarbon degrading enzymes
+    Plastic degrading enzymes
+    Dye degrading enzymes
 
-Enzymes associated with bioremediation were categorized under 3 categories:
+For further information and to cite RemeDB, please refer to:
 
-> Hydrocarbon degrading enzymes
+RemeDB: Tool for Rapid Prediction of Enzymes Involved in Bioremediation from High-Throughput Metagenome Data Sets. PMID: 31800321 DOI: 10.1089/cmb.2019.0345.
 
-> Plastic degrading enzymes
-
-> Dye degrading enzymes 
-
-4. Please cite: RemeDB: Tool for Rapid Prediction of Enzymes Involved in Bioremediation from High-Throughput Metagenome Data Sets,      PMID: 31800321 DOI: 10.1089/cmb.2019.0345 .
+A notebook file is also included in this repository to guide users in performing HMMER searches against RemeDB using their target proteins.
