@@ -1,7 +1,7 @@
 
 1. This repository contains hmm profiles of enzymes with bioremediation potential collected from remeDB on 21 June 2025.
-2. remeDb is available at: https://www.niot.res.in/Remedb/
-3.  RemeDB aims at identifying Pollutant Degrading Enzymes (PDE) from metagenomic sequences.
+2. RemeDb is available at: https://www.niot.res.in/Remedb/
+3. RemeDB aims at identifying Pollutant Degrading Enzymes (PDE) from metagenomic sequences.
 
 Enables classification and prediction novel enzymes classes.
 
